@@ -6,40 +6,39 @@ Go backend developer. Проектирую и пишу сервисы целик
 
 **Язык**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-30363d?style=flat-square&logo=go&logoColor=9aa5b1)
 
 **Базы данных**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=9aa5b1)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-30363d?style=flat-square&logo=clickhouse&logoColor=9aa5b1)
+![Redis](https://img.shields.io/badge/Redis-30363d?style=flat-square&logo=redis&logoColor=9aa5b1)
+![MongoDB](https://img.shields.io/badge/MongoDB-30363d?style=flat-square&logo=mongodb&logoColor=9aa5b1)
 
 **Очереди**
 
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-30363d?style=flat-square&logo=apachekafka&logoColor=9aa5b1)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-30363d?style=flat-square&logo=rabbitmq&logoColor=9aa5b1)
 
 **API**
 
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
-![REST](https://img.shields.io/badge/REST-5D6B77?style=flat-square)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-30363d?style=flat-square)
+![REST](https://img.shields.io/badge/REST-30363d?style=flat-square)
 
 **Инфраструктура**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=docker&logoColor=9aa5b1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-30363d?style=flat-square&logo=kubernetes&logoColor=9aa5b1)
+![Nginx](https://img.shields.io/badge/Nginx-30363d?style=flat-square&logo=nginx&logoColor=9aa5b1)
+![Linux](https://img.shields.io/badge/Linux-30363d?style=flat-square&logo=linux&logoColor=9aa5b1)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-30363d?style=flat-square&logo=githubactions&logoColor=9aa5b1)
 
 **Наблюдаемость**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-30363d?style=flat-square&logo=prometheus&logoColor=9aa5b1)
+![Grafana](https://img.shields.io/badge/Grafana-30363d?style=flat-square&logo=grafana&logoColor=9aa5b1)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-30363d?style=flat-square&logo=opentelemetry&logoColor=9aa5b1)
+![Jaeger](https://img.shields.io/badge/Jaeger-30363d?style=flat-square&logo=jaeger&logoColor=9aa5b1)
 
 
 ### Чем владею
@@ -54,5 +53,5 @@ Go backend developer. Проектирую и пишу сервисы целик
 
 ### Связаться
 
-[![Telegram](https://img.shields.io/badge/Telegram-@zeroqualme-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zeroqualme)
-[![Email](https://img.shields.io/badge/Email-zeroqualfrv@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zeroqualfrv@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@zeroqualme-30363d?style=flat-square&logo=telegram&logoColor=9aa5b1)](https://t.me/zeroqualme)
+[![Email](https://img.shields.io/badge/Email-zeroqualfrv@gmail.com-30363d?style=flat-square&logo=gmail&logoColor=9aa5b1)](mailto:zeroqualfrv@gmail.com)
